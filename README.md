@@ -1,3 +1,10 @@
+# 生命游戏
+
+# 基本规则
+总结：如果活细胞周围有二至三个活细胞则继续生存，如果死细胞周围有三个活细胞则开始生存。
+否则，死亡。
+
+
 # GameOfLife
 Python implementation of Game of Life
 
